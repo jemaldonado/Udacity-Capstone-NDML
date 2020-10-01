@@ -24,5 +24,3 @@ Python           2.x
 scikit-learn     0.19.1
 pandas  	 0.22.0
 numpy  		 1.14.0
-
-O arquivo principal do projeto está em projeto/capstone.ipynb  a execução pode ser feita sem problemas, porém executar todo o arquivo é muito demorado(algumas horas).
